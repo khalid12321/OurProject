@@ -6,7 +6,7 @@ from ultralytics import YOLO
 model = YOLO('yolov8x.pt')
 cap = cv2.VideoCapture('your_video_1.mp4')
 
-# --- CUSTOM LANE DEFINITIONS ---
+# --faeeeeeeeeeeeee
 lane1 = np.array([[339, 162],
 [398, 169],
 [415, 209],
