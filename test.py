@@ -8,7 +8,7 @@ import os
 import sqlite3
 from datetime import datetime
 # ============================
-
+#m999m=whdhdhd iwi g7bony
 model = YOLO('yolov8n.pt')
 cap = cv2.VideoCapture('videos/Rm cut 2.mp4')
 
